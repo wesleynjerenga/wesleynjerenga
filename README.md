@@ -1,4 +1,7 @@
-## Hi there, I'm Wesley Njerenga 👋
+<h1 align="center">
+  Hi there, I'm Wesley Njerenga 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on exciting projects in web development, data science, and open-source contributions.
