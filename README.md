@@ -73,7 +73,7 @@
 ---
 
 ### 📫 How to Reach Me
-- [**Portfolio Website**](https://vercel.com/wesleynjerengas-projects/portfolio)  
+- [**Portfolio Website**](https://portfolio-ivory-eight-81.vercel.app/)  
 - [**LinkedIn**](https://linkedin.com/in/wesleynjerenga)  
 - [**Twitter**](https://twitter.com/wesleynjerenga)  
 - [**Email**](mailto:wesleynjerenga9@gmail.com)
