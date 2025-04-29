@@ -62,7 +62,7 @@
 ---
 
 ### 💖 Support Me
-- [Buy me a coffee](https://www.buymeacoffee.com/wesleynjerenga) or consider [sponsoring me](https://github.com/sponsors/wesleynjerenga).
+- [sponsoring me](https://github.com/sponsors/wesleynjerenga).
 
 ---
 
@@ -73,10 +73,10 @@
 ---
 
 ### 📫 How to Reach Me
-- [**Portfolio Website**](https://wesleynjerenga.com)  
+- [**Portfolio Website**](https://vercel.com/wesleynjerengas-projects/portfolio)  
 - [**LinkedIn**](https://linkedin.com/in/wesleynjerenga)  
 - [**Twitter**](https://twitter.com/wesleynjerenga)  
-- [**Email**](mailto:your.email@example.com)
+- [**Email**](mailto:wesleynjerenga9@gmail.com)
 
 ---
 
